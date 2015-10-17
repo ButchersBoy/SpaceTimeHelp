@@ -1,0 +1,31 @@
+#pointsBoard button {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-right: 4px;
+}
+.points-container {
+  margin-top:8px;
+  margin-bottom:16px;
+}
+.point-container {
+  margin-right: 2;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+.point {
+  stroke: black;
+  stroke-width: 2;
+  cx:13;
+  cy:13; 
+  r:12;
+}
+.point-not-filled {
+  fill: white;
+}
+.point-filled {
+  fill: black;
+}
+.variable-desc {
+  vertical-align: middle;
+  margin-left: 8px;
+}
